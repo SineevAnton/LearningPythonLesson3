@@ -9,5 +9,5 @@ loopRange = len(arr)//2 if len(arr) % 2 == 0 else len(arr)//2 + 1
 
 for i in range(0, loopRange):
     elementsProd.append(arr[i] * arr[-(i+1)])
-print(arr)
-print(elementsProd)
+print(f'Initial array is: {arr}')
+print(f'Prods of elements: {elementsProd}')
