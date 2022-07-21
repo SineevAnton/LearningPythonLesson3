@@ -1,5 +1,5 @@
-# Задайте список из вещественных чисел. Напишите программу,
-# которая найдёт разницу между максимальным и минимальным значением дробной части элементов.
+# Create an array of real numbers. Write a program,
+# which will find the difference between max and min values of fractional parts of elements.
 
 import random as rnd
 

@@ -1,4 +1,4 @@
-# Напишите программу, которая будет преобразовывать десятичное число в двоичное.
+# Write a program, which will convert decimal number to binary.
 
 num = int(input('Please enter a number: '))
 result = ''

@@ -1,5 +1,6 @@
-# Напишите программу, которая найдёт произведение пар чисел списка.
-# Парой считаем первый и последний элемент, второй и предпоследний и т.д.
+# Write a program which will find the product of numbers pairs.
+# The pair is first and last elements, second and penultimate etc.
+
 import random as rnd
 
 lenArr = int(input('Please enter the length of array: '))

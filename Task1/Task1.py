@@ -1,5 +1,6 @@
-# Задайте список из нескольких чисел. Напишите программу,
-# которая найдёт сумму элементов списка, стоящих на нечётной позиции.
+# Create an array of nu,bers. Write a program
+# which will find the sum of all elements, placed on odd indexes.
+
 import random as rnd
 
 lenArr = int(input('Please enter the length of array: '))
